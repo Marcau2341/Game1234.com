@@ -1,4 +1,4 @@
-# Game1234.com<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="sk">
 <head>
     <meta charset="UTF-8">
